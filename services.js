@@ -1,0 +1,1 @@
+int right = str.length() - 1;
